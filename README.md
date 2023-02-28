@@ -1,17 +1,6 @@
-# React Effects and Fetch: Demo Start
+# React Effects and Fetch: Demo End
 
-## Notes
-
-- This is the start version of the demo.
-- You only have to touch the [`src/components/Jokes.js`](./src/components/Jokes.js) file.
-
-## Development
-
-### CodeSandbox
-
-Select the "Browser" tab to view this project.
-
-### Local development
+## Local development
 
 To run project commands locally, you need to install the dependencies using `npm i` first.
 
